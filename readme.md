@@ -16,5 +16,5 @@ This Flutter application demonstrates how to:
 5. Center the images and text on the page.
 
 
-![Screenshot_1736878552-portrait](https://github.com/user-attachments/assets/19dec11e-377c-4167-8c61-86605ae09b4b)
+<img src="https://github.com/user-attachments/assets/19dec11e-377c-4167-8c61-86605ae09b4b" alt="Screenshot" width="400"/>
 
